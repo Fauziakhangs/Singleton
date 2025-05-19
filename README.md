@@ -1,6 +1,6 @@
 # Singleton Pattern Java Program
 
-**❗ Problem Statement**
+**❗ Overview**
 
 This project demonstrates a customized Singleton design pattern implemented in Java. The main objective is to restrict the creation of instances of the SingletonAssignment2 class to a maximum of three. If a user tries to create more than three instances, the program prevents it and displays an appropriate message, ensuring controlled instance management.
 
